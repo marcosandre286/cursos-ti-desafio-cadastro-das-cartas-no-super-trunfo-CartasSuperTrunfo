@@ -20,5 +20,6 @@ int carta1();
     printf("PIB: %.10f\n", PIB);
     printf("Número de pontos turísticos: %d\n", Numero_pontos_turisticos);
 
-    return 0;
-}
+     return 0;    
+
+}   
