@@ -32,8 +32,8 @@ int carta2();
     char cidade[] = "Imperatriz";
     int população = 1680000;
     float área_km2 = 17500000;
-    float PIB = 35000000;
-    int Numero_pontos_turisticos = 35;
+    float PIB = 30000000000;
+    int Numero_pontos_turisticos = 50;
 
     printf("País: %s\n", nome);
     printf("Estado: %s\n", Estado);
