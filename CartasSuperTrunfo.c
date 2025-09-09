@@ -8,7 +8,7 @@ int carta1(A){
     char codigo[][4] = {"A01", "B02", "C03", "D04"};
     char cidade[] = "Fortaleza";
     int população = 2000000;
-    float área (km²) = 10.0000000000;
+    float área_km2 = 10.0000000000;
     float PIB = 30.0000000000;
     int Numero_pontos_turisticos = 50;
 
@@ -17,7 +17,7 @@ int carta1(A){
     printf("Código: %s\n", codigo[0]);
     printf("Cidade: %s\n", cidade);
     printf("População: %d\n", população);
-    printf("Área (km²): %.10f\n", área ("km²");
+    printf("Área (km²): %.10f\n", área_km2);
     printf("PIB: %.10f\n", PIB);
     printf("Número de pontos turísticos: %d\n", Numero_pontos_turisticos);
 
